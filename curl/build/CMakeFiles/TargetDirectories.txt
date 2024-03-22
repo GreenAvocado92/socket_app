@@ -1,0 +1,3 @@
+/media/idm/d4afe4ad-23e1-4987-ba33-400948b4608f/LinuxExp/github/curl/build/CMakeFiles/rebuild_cache.dir
+/media/idm/d4afe4ad-23e1-4987-ba33-400948b4608f/LinuxExp/github/curl/build/CMakeFiles/edit_cache.dir
+/media/idm/d4afe4ad-23e1-4987-ba33-400948b4608f/LinuxExp/github/curl/build/CMakeFiles/curl.dir
